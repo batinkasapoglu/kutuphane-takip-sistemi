@@ -2,6 +2,12 @@
 
 **Kütüphane kitap kayıtlarını** yönetmek ve kitaplar için **etiket/barkod/QR (PDF)** çıktıları üretmek için geliştirilmiş masaüstü uygulaması.
 
+
+## ⬇️ İndir (Windows)
+En güncel Windows kurulum dosyasını **Releases** sayfasından indirebilirsiniz:  
+👉 https://github.com/batinkasapoglu/kutuphane-takip-sistemi/releases
+
+
 > Tech Stack: Electron + React (Vite) + TypeScript + TailwindCSS + SQLite
 > Paketleme: electron-builder (Windows NSIS)
 

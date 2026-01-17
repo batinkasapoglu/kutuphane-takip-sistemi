@@ -22,16 +22,16 @@
 
 | #  | Ekran                   | Görsel                                               |
 | -- | ----------------------- | ---------------------------------------------------- |
-| 1  | Ana ekran               | ![Ana ekran](docs/images/01-home.PNG)                |
-| 2  | Ödünç verme – Adım 1    | ![Ödünç verme 1](docs/images/02-borrow1.png)         |
-| 3  | Ödünç verme – Adım 2    | ![Ödünç verme 2](docs/images/03-borrow2.PNG)         |
-| 4  | Ödünç verme – Adım 3    | ![Ödünç verme 3](docs/images/04-borrow3.PNG)         |
-| 5  | Ödünç alınanlar listesi | ![Ödünç listesi](docs/images/05-borrowings.PNG)      |
-| 6  | Kitap listesi           | ![Kitap listesi](docs/images/06-bookList.PNG)        |
-| 7  | Öğrenci listesi         | ![Öğrenci listesi](docs/images/07-studentList.PNG)   |
-| 8  | Etiket yazdırma         | ![Etiket yazdırma](docs/images/08-labelPrinting.PNG) |
-| 9  | Etiket / Barkod / QR    | ![Etiket](docs/images/09-label.PNG)                  |
-| 10 | Ayarlar                 | ![Ayarlar](docs/images/10-settings.PNG)              |
+| 1  | Ana ekran               | ![Ana ekran](docs/image/01-home.png)                |
+| 2  | Ödünç verme – Adım 1    | ![Ödünç verme 1](docs/image/02-borrow1.png)         |
+| 3  | Ödünç verme – Adım 2    | ![Ödünç verme 2](docs/image/03-borrow2.png)         |
+| 4  | Ödünç verme – Adım 3    | ![Ödünç verme 3](docs/image/04-borrow3.png)         |
+| 5  | Ödünç alınanlar listesi | ![Ödünç listesi](docs/image/05-borrowings.png)      |
+| 6  | Kitap listesi           | ![Kitap listesi](docs/image/06-bookList.png)        |
+| 7  | Öğrenci listesi         | ![Öğrenci listesi](docs/image/07-studentList.png)   |
+| 8  | Etiket yazdırma         | ![Etiket yazdırma](docs/image/08-labelPrinting.png) |
+| 9  | Etiket / Barkod / QR    | ![Etiket](docs/image/09-label.png)                  |
+| 10 | Ayarlar                 | ![Ayarlar](docs/image/10-settings.png)              |
 
 ---
 
@@ -49,8 +49,7 @@
 ### 1) Projeyi indir
 
 ```bash
-git clone <repo-url>
-cd <proje-klasoru>
+git clone https://github.com/batinkasapoglu/kutuphane-takip-sistemi.git
 ```
 
 ### 2) Bağımlılıkları yükle
@@ -76,7 +75,7 @@ npm run dev:electron
 
 ---
 
-## 🧭 Kullanım (Tane tane)
+## 🧭 Kullanım 
 
 ### 1) İlk açılış
 
@@ -176,7 +175,6 @@ npm install
 ## 🛣️ Yol Haritası
 
 * [ ] Dil desteği (TR/EN)
-* [ ] Yedekleme / dışa aktarma
 * [ ] İstatistik ekranı
 * [ ] Çoklu kullanıcı / rol (opsiyonel)
 
@@ -184,7 +182,7 @@ npm install
 
 ## 📄 Lisans
 
-Henüz belirlenmedi. (Öneri: MIT)
+MIT
 
 ---
 
